@@ -2,11 +2,11 @@
 
 Source code of https://benzoh.deno.dev
 
-##License
+## License
 
 MIT
 
-##Author
+## Author
 
 Mitsuhiro Wada (a.k.a. benzoh)
 
